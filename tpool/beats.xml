@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GB2312"?>
+<root>
+<pool nextid="1"  backcolor="1644825">
+<cells>
+<cell id="1" type="8" attr="0" pos="133,181,437,308" clr="127" clrtext="16777215" solid="1" text="">
+</cell>
+</cells>
+<flows>
+</flows>
+</pool>
+</root>
